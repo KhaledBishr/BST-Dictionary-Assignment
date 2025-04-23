@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716214499 source:c:\users\dell\downloads\ex.1\bst r\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1716215826 source:d:\term4.cce\data structure-1\assignments\bst-dictionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

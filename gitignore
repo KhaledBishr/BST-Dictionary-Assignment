@@ -1,0 +1,15 @@
+# Ignore build folders
+/bin/
+/obj/
+
+# Ignore compiled object and executable files
+*.o
+*.exe
+
+# Ignore IDE-specific files
+*.layout
+*.depend
+
+# OS-generated files
+.DS_Store
+Thumbs.db
